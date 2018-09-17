@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/ubuntu/environment":{"guestpath":"/home/ubuntu/environment","hostpath":"/Users/tech-a29/coursework/DevOps/jenkins/environment","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/tech-a29/coursework/DevOps/jenkins","disabled":false,"__vagrantfile":true}}}
